@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diae-Eddine Jamal</h1>
-<h3 align="center">A passionate engineer student interested in networking and cyber security and software development.</h3>
+<h3 align="center">A passionate engineer student interested in networking,cyber security and software development.</h3>
 
 - 🌱 I’m currently learning **frameworks and programming languages and artificial intelligence**
 
