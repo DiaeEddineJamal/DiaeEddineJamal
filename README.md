@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diaeeddinejamal" alt="diaeeddinejamal" /></a> </p>
 
-- 🔭 I’m currently working on [A fitness dashboard](https://github.com/DiaeEddineJamal/Finess-Fitness.git)
+- 🔭 I’m currently working on [A scie lab website](https://github.com/DiaeEddineJamal/Valetudo-Lab)
 
 - 📫 How to reach me **Diae_2002@hotmail.com**
 
