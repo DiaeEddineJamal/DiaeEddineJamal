@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diaeeddinejamal" alt="diaeeddinejamal" /></a> </p>
 
-- 🔭 I’m currently working on [A scie lab website](https://github.com/DiaeEddineJamal/Valetudo-Lab)
+- 🔭 I’m currently working on [A cross platform task manager](https://github.com/DiaeEddineJamal/Valetudo-Lab)
 
 - 📫 How to reach me **Diae_2002@hotmail.com**
 
-- ⚡ Fun fact **I am funny kinda goofy too and a book worm also a goalkeeper lmao**
+- ⚡ Fun fact **'m a bit of a goofball with a love for books and saving goals—literally. When I'm not diving for soccer balls as a goalkeeper, you can probably find me nose-deep in a novel or cracking bad jokes. Basically, I'm the literary jester of the penalty box.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
