@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diaeeddinejamal" alt="diaeeddinejamal" /></a> </p>
 
-- 🔭 I’m currently working on [A cross platform task manager](https://github.com/DiaeEddineJamal/Valetudo-Lab)
+- 🔭 I’m currently working on [A cross platform task manager](https://github.com/DiaeEddineJamal/Task_Manager_Frontend.git)
 
 - 📫 How to reach me **Diae_2002@hotmail.com**
 
