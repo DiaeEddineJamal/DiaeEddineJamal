@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Diae-Eddine Jamal</h1>
-<h3 align="center">A passionate engineering student from Morocco, interested in networking, cybersecurity, and software development.</h3>
+<h3 align="center">A Software engineer from Morocco, interested in networking, cybersecurity, and software development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diaeeddinejamal" alt="diaeeddinejamal" /></a> </p>
 
